@@ -1,0 +1,42 @@
+h1{
+  padding-left: 25px;
+  color: blue;
+   border:5px solid black;
+   background-color: grey;
+    }
+
+
+body {
+  font-family: "Lobster", cursive;
+  background-color: #5F9EA0;
+  background-image: url(http://www.lagazzettadilucca.it/assets/Uploads/articoli/blablabla.gif);
+  background-size:cover;
+}
+
+header{
+  font-weight: bold;
+}
+
+div {
+  width: 780px;
+     margin:auto;
+     border: 5px solid #174460;
+     border-radius: 10px;
+     box-shadow:2px 4px 3px black;
+     background-color:#FFFFFF;
+     padding: 40px;
+   }
+
+td{
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+
+h2{
+  border-bottom: 2px solid #174460;
+  margin-top: 50px;
+}
+
+.date{
+vertical-align: top;
+}
