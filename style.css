@@ -40,3 +40,8 @@ h2{
 .date{
 vertical-align: top;
 }
+
+.diplome {
+  background-image:url(diplome.jog);
+  width:60px
+}
