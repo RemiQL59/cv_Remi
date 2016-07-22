@@ -7,10 +7,11 @@ h1{
 
 
 body {
-  font-family: "Lobster", cursive;
+  font-family:Helvetica, cursive;
   background-color: #5F9EA0;
   background-image: url(bla.gif);
   background-size:cover;
+  
 }
 
 header{
