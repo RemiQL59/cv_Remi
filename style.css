@@ -21,6 +21,7 @@ body {
   background-image: url(bla.gif);
   background-size:cover;
   max-width:100%;
+  margin-left:5%;
   
 }
 
@@ -30,7 +31,7 @@ header{
 
 div {
   max-width: 90%;
-     margin-left:1%;
+     margin:auto;
      border: 5px solid #174460;
      border-radius: 10px;
      box-shadow:2px 4px 3px black;
