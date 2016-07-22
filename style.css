@@ -22,8 +22,6 @@ body {
   max-width:100%;
   margin-left:5%;
   margin-right:5%;
-  background-color:transparent;
-  
 }
 
 header{
@@ -38,7 +36,7 @@ div {
      border: 5px solid #174460;
      border-radius: 10px;
      box-shadow:2px 4px 3px black;
-     background-color:#FFFFFF;
+     background-color:transparent;
   
    }
 
