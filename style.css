@@ -30,7 +30,7 @@ header{
 
 div {
   max-width: 90%;
-     margin:auto;
+     margin-left:1%;
      border: 5px solid #174460;
      border-radius: 10px;
      box-shadow:2px 4px 3px black;
