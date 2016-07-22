@@ -34,6 +34,7 @@ header{
 }
 
 div {
+  color:Teal;
   max-width: 90%;
      margin:auto;
      border: 5px solid #174460;
