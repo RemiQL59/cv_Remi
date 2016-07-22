@@ -26,7 +26,7 @@ header{
 }
 
 div {
-  width: 780px;
+  width: 100%;
      margin:auto;
      border: 5px solid #174460;
      border-radius: 10px;
@@ -48,8 +48,10 @@ vertical-align: top;
 
 section{
   background-color:LightSeaGreen ;
+  
 }
- table{
-   width:100%;
- }
+table{
+  max-width:100%;
+}
+
 
