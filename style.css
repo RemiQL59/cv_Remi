@@ -1,8 +1,10 @@
-@media screenand (max-width: 320px){
-  td{
-  padding-left: 50px;
-  padding-bottom: 10px;
+@media screenand (max-width: 480px){
+body{
+  float:none;
+  padding-left:1%;
+  margin-right:1%;
 }
+
   
 }
 h1{
