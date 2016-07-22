@@ -13,7 +13,6 @@ h1{
 
 body {
   font-family:font-family: Pacifico;
-  background-color: skyblue;
   background-image: url(bla.gif);
   background-size:cover;
   
@@ -47,6 +46,8 @@ h2{
 vertical-align: top;
 }
 
-
+section{
+  background-color:skybue;
+}
  
 
