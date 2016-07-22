@@ -1,9 +1,4 @@
-@media screenand (max-width: 480px){
-body{
-  float:none;
-  padding-left:1%;
-  margin-right:1%;
-}
+
 
   
 }
@@ -20,6 +15,7 @@ body {
   font-weight:bold;
   background-image: url(bla.gif);
   background-size:cover;
+  max-width:100%;
   
 }
 
