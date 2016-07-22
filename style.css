@@ -8,11 +8,9 @@
   
 }
 h1{
-  color:#fff;
    border:5px solid black;
    background-color: Teal;
    margin-left:5%;
-   text-align:center;
     }
 
 
@@ -30,6 +28,7 @@ body {
 header{
   font-weight: bold;
   padding:1em;
+  text-align:center;
 }
 
 div {
