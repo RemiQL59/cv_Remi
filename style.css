@@ -1,7 +1,9 @@
-@media screen (max-width: 320px){
-  body{
-    1em;
-  }
+@media screenand (max-width: 320px){
+  td{
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+  
 }
 h1{
   padding-left: 25px;
@@ -33,10 +35,7 @@ div {
      padding: 40px;
    }
 
-td{
-  padding-left: 50px;
-  padding-bottom: 10px;
-}
+
 
 h2{
   border-bottom: 2px solid #174460;
