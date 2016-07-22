@@ -3,6 +3,10 @@
   body{
     display: none;
   }
+  
+  h1{
+    margin-left:2%;
+  }
 }
 
 
